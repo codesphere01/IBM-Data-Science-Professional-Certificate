@@ -1,4 +1,4 @@
-# IBM Data Science Professional Certificate
+# IBM Data Science Professional Certificate 
 
 ![IBM Data Science](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-052FAD?style=for-the-badge\&logo=ibm\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat\&logo=python\&logoColor=white)
@@ -464,7 +464,7 @@ I would like to thank **IBM and Coursera** for providing a structured learning p
 
 ## 👨‍💻 About Me
 
-**Rudrapratap Paghal**
+**Mayuri Pardeshi**
 
 🎓 B.Tech — Computer Science & Engineering (AI)
 
